@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "charm:ebony_planks"
+    },
+    "result": "everycomp:mcd/charm/ebony_cottage_door",
+    "count": 1
+}

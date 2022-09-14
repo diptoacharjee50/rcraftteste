@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "colorful-azaleas:bright_azalea_planks"
+    },
+    "result": "snowyspirit:colorful-azaleas/sled_bright_azalea",
+    "count": 1
+}

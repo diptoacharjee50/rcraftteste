@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FS",
+    " P"
+  ],
+  "key": {
+    "F": {
+      "item": "twigs:pebble"
+    },
+    "P": {
+      "item": "minecraft:stick"
+    },
+	"S": {
+	  "item": "farmersdelight:straw"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_axe"
+  }
+}

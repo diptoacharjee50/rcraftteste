@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "mahogany:mahogany_planks"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/mahogany/mahogany_paper_trapdoor"
+  }
+}

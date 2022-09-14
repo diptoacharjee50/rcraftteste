@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "excavated_variants:block/twigs_rhyolite_silver_ore0",
+    "side": "excavated_variants:block/twigs_rhyolite_silver_ore1",
+    "particle": "excavated_variants:block/twigs_rhyolite_silver_ore1"
+  }
+}

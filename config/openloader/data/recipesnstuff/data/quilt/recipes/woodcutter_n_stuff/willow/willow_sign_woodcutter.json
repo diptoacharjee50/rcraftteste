@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "biomemakeover:willow_planks"
+    },
+    "result": "biomemakeover:willow_sign",
+    "count": 1
+}

@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "excavated_variants:block/twigs_schist_amber_ore0",
+        "x": 0,
+        "y": 0
+      }
+    ]
+  }
+}

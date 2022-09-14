@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "excavated_variants:block/red_sandstone_redstone_ore2",
+    "side": "excavated_variants:block/red_sandstone_redstone_ore0",
+    "top": "excavated_variants:block/red_sandstone_redstone_ore1",
+    "particle": "excavated_variants:block/red_sandstone_redstone_ore1"
+  }
+}

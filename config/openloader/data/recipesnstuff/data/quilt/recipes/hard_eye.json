@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PIW",
+    "AEL",
+	"NMH"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "A": {
+      "item": "galosphere:allurite_shard"
+	},
+    "L": {
+      "item": "galosphere:lumiere_shard"
+	},
+    "N": {
+      "item": "minecraft:quartz"
+	},
+    "M": {
+      "item": "minecraft:amethyst_shard"
+	},
+    "H": {
+      "item": "minecraft:blaze_powder"
+	},
+    "W": {
+      "item": "minecraft:echo_shard"
+	},
+    "P": {
+      "item": "minecraft:prismarine_shard"
+	},
+    "I": {
+      "item": "biomemakeover:illunite_shard"
+	}
+  },
+  "result": {
+    "item": "minecraft:ender_eye"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "twigs:sea_shell",
+	"minecraft:bone",
+	"architects_palette:withered_bone"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FF",
+    "FF"
+  ],
+  "key": {
+    "F": {
+      "item": "twigs:sea_shell"
+    }
+  },
+  "result": {
+    "item": "ecologics:seashell_tiles",
+	"count": 4
+  }
+}

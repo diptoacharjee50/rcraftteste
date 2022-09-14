@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "mahogany:mahogany_planks"
+    },
+    "result": "everycomp:mct/mahogany/mahogany_barred_trapdoor",
+    "count": 1
+}

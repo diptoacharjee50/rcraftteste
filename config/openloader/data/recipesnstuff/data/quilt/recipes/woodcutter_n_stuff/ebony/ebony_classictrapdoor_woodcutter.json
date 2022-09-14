@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "charm:ebony_planks"
+    },
+    "result": "everycomp:mct/charm/ebony_classic_trapdoor",
+    "count": 1
+}

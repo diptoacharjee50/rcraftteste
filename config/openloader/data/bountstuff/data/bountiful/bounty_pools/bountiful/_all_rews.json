@@ -1,0 +1,156 @@
+{
+	"content": [
+
+		{
+			"type": "ITEM",
+			"content": "numismatic-overhaul:gold_coin",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 1000,
+			"weightMult": 1.25
+		},
+
+		{
+			"type": "ITEM",
+			"content": "numismatic-overhaul:silver_coin",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 800,
+			"weightMult": 0.2
+		},
+
+		{
+			"type": "ITEM",
+			"rarity": "UNCOMMON",
+			"content": "bountiful:decree",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 800,
+			"weightMult": 0.2
+		},
+		
+		{
+			"type": "ITEM",
+			"rarity": "UNCOMMON",
+			"content": "chalk:chalk",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 400,
+			"weightMult": 0.2
+		},
+		
+		{
+			"type": "ITEM",
+			"rarity": "UNCOMMON",
+			"content": "mcdw:sword_claymore",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000,
+			"weightMult": 0.2
+		},
+		
+		{
+			"type": "ITEM",
+			"content": "minecraft:spyglass",
+			"rarity": "RARE",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2500.0
+		},
+
+		{
+			"type": "ITEM",
+			"content": "biomemakeover:crude_cladding",
+			"rarity": "RARE",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 2500.0
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:totem_of_undying",
+			"rarity": "LEGENDARY",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:arrow",
+			"amount": {
+				"min": 3,
+				"max": 9
+			},
+			"unitWorth": 100
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:glow_ink_sac",
+			"rarity": "EPIC",
+			"weightMult": 0.3,
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 500
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:prismarine_crystals",
+			"rarity": "EPIC",
+			"weightMult": 0.15,
+			"amount": {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "supplementaries:bomb_spiky",
+			"rarity": "EPIC",
+			"weightMult": 0.15,
+			"amount": {
+				"min": 2,
+				"max": 4
+			},
+			"unitWorth": 6000
+		},
+
+		{
+			"type": "ITEM",
+			"content": "minecraft:axolotl_bucket",
+			"rarity": "LEGENDARY",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000
+		}
+
+
+	]
+
+
+}

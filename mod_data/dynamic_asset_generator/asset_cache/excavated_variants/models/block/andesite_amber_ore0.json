@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "excavated_variants:block/andesite_amber_ore0",
+    "particle": "excavated_variants:block/andesite_amber_ore0"
+  }
+}

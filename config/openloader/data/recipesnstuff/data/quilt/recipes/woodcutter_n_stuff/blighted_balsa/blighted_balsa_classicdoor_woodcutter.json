@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "biomemakeover:blighted_balsa_planks"
+    },
+    "result": "everycomp:mcd/biomemakeover/blighted_balsa_classic_door",
+    "count": 1
+}

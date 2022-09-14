@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "mahogany:mahogany_planks"
+    },
+    "result": "snowyspirit:mahogany/sled_mahogany",
+    "count": 1
+}
