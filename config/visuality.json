@@ -81,7 +81,6 @@
     "excavated_variants:diorite_diamond_ore",
     "excavated_variants:andesite_diamond_ore",
     "excavated_variants:twigs_schist_diamond_ore",
-    "excavated_variants:twigs_rhyolite_diamond_ore",
-    null
+    "excavated_variants:twigs_rhyolite_diamond_ore"
   ]
 }
