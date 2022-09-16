@@ -1,7 +1,7 @@
 {
   "meta": {
     "comment": "IMPORTANT! Make sure to set `override_with_default` to `false` to allow customization of the config",
-    "override_with_default": true,
+    "override_with_default": false,
     "sanitize_config": true,
     "rounding_unit": 0.5
   },
@@ -19,7 +19,7 @@
           },
           {
             "attribute": "generic.max_health",
-            "value": 0.5
+            "value": 0.2
           }
         ]
       }

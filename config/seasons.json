@@ -1,5 +1,5 @@
 {
-  "seasonLength": 672000,
+  "seasonLength": 1344000,
   "seasonLock": {
     "isSeasonLocked": false,
     "lockedSeason": "SPRING"
@@ -9,7 +9,7 @@
   ],
   "doTemperatureChanges": true,
   "isSeasonTiedWithSystemTime": false,
-  "isInNorthHemisphere": true,
+  "isInNorthHemisphere": false,
   "minecraftDefaultFoliage": {
     "springColor": 4764952,
     "summerColor": 5038091,

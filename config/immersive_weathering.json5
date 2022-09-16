@@ -30,7 +30,7 @@
 		"freezingPermafrostSeverity": 200,
 		"icicleFreezing": true,
 		"freezingIcicleSeverity": 300,
-		"thinIceFormation": false,
+		"thinIceFormation": true,
 		"thinIceMelting": true,
 		"glassFrosting": true,
 		"grassFrosting": true,
