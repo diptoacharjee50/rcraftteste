@@ -34445,7 +34445,7 @@
         "file": "Particle-Blocker.jar",
         "type": "mods",
         "description": "Adds a GUI to pick and choose particles to not render. ",
-        "disabled": false,
+        "disabled": true,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
@@ -51776,171 +51776,6 @@
         }
       },
       {
-        "name": "SquakeFabric",
-        "version": "squake-fabric-1.1+1.19.jar",
-        "optional": true,
-        "file": "squake-fabric-1.1+1.19.jar",
-        "type": "mods",
-        "description": "Adds Quake/HL movement mechanics to Minecraft",
-        "disabled": true,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 574420,
-        "curseForgeFileId": 3938840,
-        "curseForgeProject": {
-          "id": 574420,
-          "name": "SquakeFabric",
-          "authors": [
-            {
-              "id": 496671,
-              "name": "He11crow",
-              "url": "https://www.curseforge.com/members/34439689-he11crow?username=he11crow"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Adds Quake/HL movement mechanics to Minecraft",
-          "categories": [
-            {
-              "name": "Player Transport",
-              "slug": "technology-player-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
-              "dateModified": "2014-05-08T17:38:58.357Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 414,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 414,
-          "classId": 6,
-          "slug": "squakefabric",
-          "isFeatured": false,
-          "dateModified": "2022-08-17T11:17:02.51Z",
-          "dateCreated": "2022-01-29T17:39:44.59Z",
-          "dateReleased": "2022-08-17T11:15:01.233Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/squakefabric",
-            "wikiUrl": "",
-            "sourceUrl": "https://github.com/He11crow/SquakeFabric"
-          },
-          "logo": {
-            "id": 487492,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/487/492/256/256/637790747846420238.png",
-            "title": "637790747846420238.png",
-            "url": "https://media.forgecdn.net/avatars/487/492/637790747846420238.png",
-            "modId": 574420
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 3938840
-        },
-        "curseForgeFile": {
-          "id": 3938840,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "squake-fabric-1.1+1.19.jar",
-          "fileName": "squake-fabric-1.1+1.19.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-08-17T11:15:01.233Z",
-          "fileLength": 25467,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 2720664343,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 4047342028,
-              "name": "LICENSE_squake-fabric"
-            },
-            {
-              "fingerprint": 2690235,
-              "name": "squake-fabric.mixins.json"
-            },
-            {
-              "fingerprint": 1388735442,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 2185927403,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3593267948,
-              "name": "squake-fabric-refmap.json"
-            },
-            {
-              "fingerprint": 1412831075,
-              "name": "he11crow"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "011509a7626751f7174c7019551638a8f96e6568",
-              "algo": 1
-            },
-            {
-              "value": "23760b41862be0f374f535b45f4867ab",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000001",
-              "gameVersion": "1.19.1",
-              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
-              "gameVersionName": "1.19.1"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019",
-              "gameVersion": "1.19",
-              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
-              "gameVersionName": "1.19"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.19.2",
-            "1.19.1",
-            "1.19"
-          ],
-          "fileFingerprint": 1391302998,
-          "modId": 574420
-        }
-      },
-      {
         "name": "Better Lily Pads",
         "version": "betterlily-1.2-universal.jar",
         "optional": true,
@@ -53088,230 +52923,6 @@
         }
       },
       {
-        "name": "Nox - A Mob and Difficulty Overhaul",
-        "version": "SHUT UP GUARDIANS",
-        "optional": true,
-        "file": "nox-2.0.0.jar",
-        "type": "mods",
-        "description": "Mob and difficulty overhaul for Fabric.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 565421,
-        "curseForgeFileId": 3990718,
-        "curseForgeProject": {
-          "id": 565421,
-          "name": "Nox - A Mob and Difficulty Overhaul",
-          "authors": [
-            {
-              "id": 486173,
-              "name": "Sci_Rave",
-              "url": "https://www.curseforge.com/members/102015206-sci_rave?username=sci_rave"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Mob and difficulty overhaul for Fabric.",
-          "categories": [
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 411,
-          "classId": 6,
-          "slug": "nox-a-mob-and-difficulty-overhaul",
-          "isFeatured": false,
-          "dateModified": "2022-09-15T19:54:18.04Z",
-          "dateCreated": "2022-01-07T23:53:55.113Z",
-          "dateReleased": "2022-09-15T19:46:36.477Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/nox-a-mob-and-difficulty-overhaul",
-            "issuesUrl": "https://github.com/stormdirus2/nox/issues",
-            "sourceUrl": "https://github.com/stormdirus2/nox"
-          },
-          "logo": {
-            "id": 477384,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/477/384/256/256/637771964351432849.png",
-            "title": "637771964351432849.png",
-            "url": "https://media.forgecdn.net/avatars/477/384/637771964351432849.png",
-            "modId": 565421
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 421259,
-              "description": "640 x 640 sized version of the mod icon",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/421/259/310/172/nox_icon_full.png",
-              "title": "Full sized icon",
-              "url": "https://media.forgecdn.net/attachments/421/259/nox_icon_full.png",
-              "modId": 565421
-            }
-          ],
-          "mainFileId": 3990718
-        },
-        "curseForgeFile": {
-          "id": 3990718,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "SHUT UP GUARDIANS",
-          "fileName": "nox-2.0.0.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-09-15T19:46:36.477Z",
-          "fileLength": 190320,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 488090,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 306612,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 415351820,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2980605036,
-              "name": "LICENSE_nox"
-            },
-            {
-              "fingerprint": 4073735420,
-              "name": "data"
-            },
-            {
-              "fingerprint": 667865500,
-              "name": "nox.mixins.json"
-            },
-            {
-              "fingerprint": 1776729959,
-              "name": "nox.accesswidener"
-            },
-            {
-              "fingerprint": 1346955719,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 1144678942,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 407107460,
-              "name": "nox-refmap.json"
-            },
-            {
-              "fingerprint": 1300252316,
-              "name": "net"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "2a0cd09b00ead1aebb1ef6c8f26e6dd3ef9b8e1e",
-              "algo": 1
-            },
-            {
-              "value": "d2d9bcb9c56530bfcf7e1f4bed43c123",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000002",
-              "gameVersion": "1.19.2",
-              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
-              "gameVersionName": "1.19.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000001",
-              "gameVersion": "1.19.1",
-              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
-              "gameVersionName": "1.19.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
-              "gameVersionName": "Quilt"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019",
-              "gameVersion": "1.19",
-              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
-              "gameVersionName": "1.19"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.19.2",
-            "1.19.1",
-            "Quilt",
-            "1.19"
-          ],
-          "fileFingerprint": 3041223385,
-          "modId": 565421
-        }
-      },
-      {
         "name": "Comforts (Fabric)",
         "version": "comforts-fabric-6.0.0+1.19.2.jar",
         "optional": true,
@@ -53728,12 +53339,379 @@
           "fileFingerprint": 2130592847,
           "modId": 674454
         }
+      },
+      {
+        "name": "Effective ?",
+        "version": "Effective-1.3.jar",
+        "optional": true,
+        "file": "effective-1.3.jar",
+        "type": "mods",
+        "description": "A client-side mod adding ambient and environmental interaction effects to enhance immersion.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 556381,
+        "curseForgeFileId": 3989651,
+        "curseForgeProject": {
+          "id": 556381,
+          "name": "Effective ?",
+          "authors": [
+            {
+              "id": 476508,
+              "name": "doctor4t",
+              "url": "https://www.curseforge.com/members/33024798-doctor4t?username=doctor4t"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A client-side mod adding ambient and environmental interaction effects to enhance immersion.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "effective",
+          "isFeatured": false,
+          "dateModified": "2022-09-14T22:00:47.903Z",
+          "dateCreated": "2021-12-11T20:55:24.33Z",
+          "dateReleased": "2022-09-14T18:43:54.927Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/effective",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/ladysnake/effective/issues",
+            "sourceUrl": "https://github.com/ladysnake/effective"
+          },
+          "logo": {
+            "id": 467123,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/467/123/256/256/637748529243644133.png",
+            "title": "637748529243644133.png",
+            "url": "https://media.forgecdn.net/avatars/467/123/637748529243644133.png",
+            "modId": 556381
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 3989651
+        },
+        "curseForgeFile": {
+          "id": 3989651,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Effective-1.3.jar",
+          "fileName": "effective-1.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-09-14T18:43:54.927Z",
+          "fileLength": 800213,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4237156191,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1468930303,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 361690802,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3223097170,
+              "name": "effective.mixins.json"
+            },
+            {
+              "fingerprint": 158056483,
+              "name": "effective.accesswidener"
+            },
+            {
+              "fingerprint": 3687182263,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1154450359,
+              "name": "effective-refmap.json"
+            },
+            {
+              "fingerprint": 435664357,
+              "name": "ladysnake"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e999f5fe4b3ac0563369c5303335b7ec9d76aaf9",
+              "algo": 1
+            },
+            {
+              "value": "710ba3bbdcb95de96a887a5b07102883",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19.2",
+            "1.19.1",
+            "Quilt",
+            "1.19"
+          ],
+          "fileFingerprint": 3326960641,
+          "modId": 556381
+        }
+      },
+      {
+        "name": "Visuality",
+        "version": "[1.19.1] Visuality 0.5.1",
+        "optional": true,
+        "file": "visuality-0.5.1.jar",
+        "type": "mods",
+        "description": "Little visual improvements by adding a bunch of new particles.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 521126,
+        "curseForgeFileId": 3904406,
+        "curseForgeProject": {
+          "id": 521126,
+          "name": "Visuality",
+          "authors": [
+            {
+              "id": 438763,
+              "name": "PinkGoosik",
+              "url": "https://www.curseforge.com/members/31498593-pinkgoosik?username=pinkgoosik"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Little visual improvements by adding a bunch of new particles.",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "visuality",
+          "isFeatured": false,
+          "dateModified": "2022-09-09T15:33:29.953Z",
+          "dateCreated": "2021-08-27T13:47:23.533Z",
+          "dateReleased": "2022-09-09T15:21:25.78Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/visuality",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/PinkGoosik/visuality/issues",
+            "sourceUrl": "https://github.com/PinkGoosik/visuality"
+          },
+          "logo": {
+            "id": 499556,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/499/556/256/256/637816596155676580.png",
+            "title": "637816596155676580.png",
+            "url": "https://media.forgecdn.net/avatars/499/556/637816596155676580.png",
+            "modId": 521126
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3975055
+        },
+        "curseForgeFile": {
+          "id": 3904406,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.19.1] Visuality 0.5.1",
+          "fileName": "visuality-0.5.1.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2022-07-28T17:43:41.843Z",
+          "fileLength": 67718,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 3904407,
+          "modules": [
+            {
+              "fingerprint": 2885902583,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4256191800,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 4190162949,
+              "name": "visuality"
+            },
+            {
+              "fingerprint": 3986584870,
+              "name": "visuality.mixins.json"
+            },
+            {
+              "fingerprint": 3321934616,
+              "name": "LICENSE_visuality"
+            },
+            {
+              "fingerprint": 3882626860,
+              "name": "visuality-refmap.json"
+            },
+            {
+              "fingerprint": 922651850,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "c21bdf8fe7461f33538902ebdae31254ce3b31e5",
+              "algo": 1
+            },
+            {
+              "value": "ed11ed9d1f3f520c548d40e9f1a68ffa",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19.2",
+            "1.19.1",
+            "Quilt",
+            "1.19"
+          ],
+          "fileFingerprint": 2049232279,
+          "modId": 521126
+        }
       }
     ],
     "ignoredUpdates": [],
     "vanillaInstance": true,
-    "lastPlayed": 1663286367604,
-    "numPlays": 22
+    "lastPlayed": 1663344111322,
+    "numPlays": 32
   },
   "id": "1.19.2",
   "complianceLevel": 1,

@@ -44,5 +44,5 @@
 	// Enables alternate textures by the lead texture artist
 	"other_droplet_texture": false,
 	"hud_x": 0,
-	"hud_y": 0
+	"hud_y": -2
 }

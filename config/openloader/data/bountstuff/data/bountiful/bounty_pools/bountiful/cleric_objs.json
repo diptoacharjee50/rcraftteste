@@ -130,17 +130,6 @@
 
         {
             "type": "ITEM",
-			"rarity": "RARE",
-            "content": "minecraft:scute",
-            "amount": {
-                "min": 2,
-                "max": 6
-            },
-            "unitWorth": 250
-        },
-
-        {
-            "type": "ITEM",
 			"rarity": "EPIC",
             "content": "minecraft:nether_wart",
             "amount": {

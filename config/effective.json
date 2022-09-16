@@ -2,7 +2,7 @@
   "generateSplashes": true,
   "splashRimAlpha": 0.7,
   "generateCascades": true,
-  "cascadeSoundsVolumeMultiplier": 100,
+  "cascadeSoundsVolumeMultiplier": 20,
   "cascadeSoundDistanceBlocks": 150,
   "shouldFlowingWaterSpawnParticlesOnFirstTick": true,
   "lapisBlockUpdateParticleChance": 10,

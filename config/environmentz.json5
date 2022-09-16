@@ -1,8 +1,8 @@
 {
 	// Increase for less harsh environments
 	"temperature_calculation_time": 20,
-	"icon_x": -100,
-	"icon_y": 20,
+	"icon_x": 6,
+	"icon_y": 55,
 	"thermometer_icon_x": 140,
 	"thermometer_icon_y": 32,
 	"show_thermometer": false,
