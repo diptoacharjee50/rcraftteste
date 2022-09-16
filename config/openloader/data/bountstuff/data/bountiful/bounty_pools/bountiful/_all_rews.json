@@ -69,6 +69,17 @@
 			},
 			"unitWorth": 2500.0
 		},
+		
+		{
+			"type": "ITEM",
+			"content": "minecraft:leather",
+			"rarity": "RARE",
+			"amount": {
+				"min": 1,
+				"max": 32
+			},
+			"unitWorth": 2500.0
+		},
 
 		{
 			"type": "ITEM",
@@ -125,6 +136,18 @@
 			},
 			"unitWorth": 2000
 		},
+		
+		{
+			"type": "ITEM",
+			"content": "minecraft:raw_iron",
+			"rarity": "EPIC",
+			"weightMult": 0.15,
+			"amount": {
+				"min": 1,
+				"max": 64
+			},
+			"unitWorth": 2000
+		},
 
 		{
 			"type": "ITEM",
@@ -145,6 +168,17 @@
 			"amount": {
 				"min": 1,
 				"max": 1
+			},
+			"unitWorth": 4000
+		},
+		
+		{
+			"type": "ITEM",
+			"content": "minecraft:diamond",
+			"rarity": "LEGENDARY",
+			"amount": {
+				"min": 12,
+				"max": 24
 			},
 			"unitWorth": 4000
 		}

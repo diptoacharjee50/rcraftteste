@@ -1,5 +1,5 @@
 version:3120
-quilt_available_resource_packs:["programer_art","vanilla","dynamic_asset_generator:assets","Moonlight Generated Pack","continuity/default","continuity/glass_pane_culling_fix","minecraft/supporteatinganimation","resources/CCResources","resources/EBE_v1.1_1.19.x","resources/Properly+Worn+Backpacks+(inmis).zip","resources/Quark+VRO+-+NC.zip","resources/Quarks+chest+for+Charm.zip","resources/fartpack.zip","Everycomp Generated Pack","defaultresources","charmonium/journeyman","immersive_weathering/better_brick_blocks","immersive_weathering/better_brick_items","immersive_weathering/biome_tinted_mossy_blocks","immersive_weathering/visual_waxed_iron_items","Supplementaries Generated Pack","Snowyspirit Generated Pack","purpeille/old","purpeille/theinar","telepistons/bellows_pistons","telepistons/enable_steam","telepistons/scissor_pistons","telepistons/sticky_sides","Black Icons","Classic Icons","White Icons","resources/VanillaTweaks_r535545.zip","resources/reinforced_leather19.zip"]
+quilt_available_resource_packs:["programer_art","vanilla","dynamic_asset_generator:assets","Moonlight Generated Pack","continuity/default","continuity/glass_pane_culling_fix","minecraft/supporteatinganimation","resources/CCResources","resources/EBE_v1.1_1.19.x","resources/Properly+Worn+Backpacks+(inmis).zip","resources/Quark+VRO+-+NC.zip","resources/Quarks+chest+for+Charm.zip","resources/fartpack.zip","Everycomp Generated Pack","defaultresources","charmonium/journeyman","immersive_weathering/better_brick_blocks","immersive_weathering/better_brick_items","immersive_weathering/biome_tinted_mossy_blocks","immersive_weathering/visual_waxed_iron_items","Supplementaries Generated Pack","Snowyspirit Generated Pack","purpeille/old","purpeille/theinar","telepistons/bellows_pistons","telepistons/enable_steam","telepistons/scissor_pistons","telepistons/sticky_sides","Black Icons","Classic Icons","White Icons","resources/VanillaTweaks_r535545.zip","resources/reinforced_leather19.zip","bedrockwaters/resources"]
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -38,7 +38,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","dynamic_asset_generator:assets","minecraft/supporteatinganimation","Moonlight Generated Pack","resources/VanillaTweaks_r535545.zip","resources/CCResources","resources/reinforced_leather19.zip","resources/EBE_v1.1_1.19.x","resources/Properly+Worn+Backpacks+(inmis).zip","resources/Quark+VRO+-+NC.zip","resources/Quarks+chest+for+Charm.zip","resources/fartpack.zip","charmonium/journeyman","Everycomp Generated Pack","defaultresources","purpeille/theinar","telepistons/enable_steam","Snowyspirit Generated Pack","Supplementaries Generated Pack","continuity/default","continuity/glass_pane_culling_fix"]
+resourcePacks:["vanilla","dynamic_asset_generator:assets","minecraft/supporteatinganimation","Moonlight Generated Pack","resources/VanillaTweaks_r535545.zip","resources/CCResources","resources/reinforced_leather19.zip","resources/EBE_v1.1_1.19.x","resources/Properly+Worn+Backpacks+(inmis).zip","resources/Quark+VRO+-+NC.zip","resources/Quarks+chest+for+Charm.zip","resources/fartpack.zip","charmonium/journeyman","Everycomp Generated Pack","defaultresources","purpeille/theinar","telepistons/enable_steam","Snowyspirit Generated Pack","Supplementaries Generated Pack","continuity/default","continuity/glass_pane_culling_fix","bedrockwaters/resources"]
 incompatibleResourcePacks:["resources/Properly+Worn+Backpacks+(inmis).zip","resources/fartpack.zip"]
 lastServer:
 lang:en_us
@@ -101,7 +101,7 @@ key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.unknown
-key_key.loadToolbarActivator:key.keyboard.x
+key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
@@ -121,7 +121,7 @@ key_key.feytweaks.openConfigKey:key.keyboard.unknown
 key_key.autohud.toggle-hud:key.keyboard.g
 key_key.autohud.peek-hud:key.keyboard.r
 key_key.entityculling.toggle:key.keyboard.unknown
-key_supplementaries.keybind.quiver:key.keyboard.left.shift
+key_supplementaries.keybind.quiver:key.keyboard.x
 key_neat.keybind.toggle:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.unknown
@@ -141,6 +141,8 @@ key_Camera up:key.keyboard.page.up
 key_Camera down:key.keyboard.page.down
 key_Swap shoulder:key.keyboard.o
 key_Toggle perspective:key.keyboard.unknown
+key_key.backslot.switch_backslot:key.keyboard.g
+key_key.backslot.switch_beltslot:key.keyboard.g
 key_key.indypets.whistle:key.keyboard.j
 key_key.indypets.unwhistle:key.keyboard.j
 key_key.eldenhorses.summonhorse:key.keyboard.unknown
@@ -155,6 +157,7 @@ key_keybinds.bettercombat.feint:key.keyboard.r
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.y
 key_key.inmis.open_backpack:key.keyboard.b
 key_playerex.key.screen:key.keyboard.unknown
+key_key.spyglass-improvements.use:key.keyboard.z
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
@@ -162,6 +165,7 @@ key_key.jade.show_recipes:key.keyboard.keypad.3
 key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_presencefootsteps.settings.key:key.keyboard.f10
+key_key.walljump.walljump:key.keyboard.left.shift
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown

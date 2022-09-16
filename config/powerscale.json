@@ -5,6 +5,26 @@
     "sanitize_config": true,
     "rounding_unit": 0.5
   },
+  "perPlayerDifficulty": {
+    "entities": [
+      {
+        "entity_matches": {
+          "attitude": "ANY",
+          "entity_id_regex": ".*"
+        },
+        "attributes": [
+          {
+            "attribute": "generic.attack_damage",
+            "value": 0.2
+          },
+          {
+            "attribute": "generic.max_health",
+            "value": 0.5
+          }
+        ]
+      }
+    ]
+  },
   "dimensions": [
     {
       "world_matches": {
@@ -18,7 +38,8 @@
       "zones": [
         {
           "zone_matches": {
-            "biome_regex": "frozen|snowy|ice"
+            "biome_regex": "frozen|snowy|ice",
+            "biome_tag_regex": ".*"
           },
           "entities": [
             {
@@ -66,7 +87,8 @@
         },
         {
           "zone_matches": {
-            "biome_regex": "desert"
+            "biome_regex": "desert",
+            "biome_tag_regex": ".*"
           },
           "entities": [
             {
