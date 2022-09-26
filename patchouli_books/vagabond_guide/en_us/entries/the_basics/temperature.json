@@ -1,0 +1,48 @@
+{
+    "name": "Temperature",
+    "icon": "minecraft:sunflower",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Looking above your level in the xp bar you will notice a little person thing, It's here to help you know how the actual temperature will affect you.$(br2)They will start getting $(9)blue $()& $(1)bluer $()the more cold it is, this is until you start freezing."
+        },
+        {
+            "type": "patchouli:text",
+			"text": "When you start freezing the person icon will become a circle, then when that circle fills up you will start taking damage.$(br2)Meanwhile in hot temperatures they will start getting $(c)red $()& $(4)redder, $()this is until you start overheating.$(br2)While overheating the icon will become a dark overlay of a flame, and when it fills up will you start taking damage.$(br)(Hot temperatures affects your thirst bar as well.)"
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Dealing with the cold",
+            "text": "The cold can be tamed by staying near a campfire, but of course you dont want to be stranded by a campfire the whole winter.$(br2)Any leather or wool derived armor will help you with that, you can also insulate any armor with any bear fur."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "minecraft:leather_chestplate",
+			"recipe2": "immersive_armors:robe_chestplate"
+            
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Dealing with the cold",
+            "text": "You can also get Heating Stones in a stonecutter, and heat them in a furnace.$(br)They will keep you warm while you carry them in your inventory."
+        },
+				{
+            "type": "patchouli:smelting",
+			"recipe": "environmentz:heating_stones_furnace"
+            
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Dealing with the heat",
+			"text": "While in the heat you can make an Ice Pack, it will keep you cold in hot environments while in your inventory.$(br2)Just don't forget to refill it, be with ice blocks or snow ones."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "environmentz:ice_pack",
+			"recipe2": "environmentz:ice_pack_refill"
+            
+        }
+		
+    ]
+}

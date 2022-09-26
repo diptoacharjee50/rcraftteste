@@ -1,0 +1,16 @@
+{
+    "name": "Charged Lumiere",
+    "icon": "galosphere:charged_lumiere_block",
+    "category": "patchouli:important_mechanisms",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Get this block by striking the lumiere blocks with lightning. Placing a certain type of block on top of a charged lumiere will turn the block into another form of block (This process is called Lumiere Reforming)."
+        },
+		{
+			"type": "patchouli:text",
+			"title": "Lumiere Reforming",
+			"text": "Granite > Red Sand$(br)Red Sand > Sand$(br)Cobblestone > Gravel$(br)"
+		}
+    ]
+}

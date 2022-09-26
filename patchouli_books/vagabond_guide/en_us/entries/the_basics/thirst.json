@@ -1,0 +1,46 @@
+{
+    "name": "Thirst",
+    "icon": "dehydration:leather_flask",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)If you look above your hunger you will notice the thirst bar, but don't worry, dealing with thirst is easy;$()$(br2)-Water Sources:$(br)You can drink from water sources like lakes but that will end making you sick, giving you the 'Thirst Effect'."
+        },
+        {
+            "type": "patchouli:text",
+			"text": "$(a)-The Thirst Effect:$(br)$()During the duration of the effect, your thirst bar will drain faster and you will take damage periodically.$(br)Depending from where you drank the dirty water the effect may last longer."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "$(br2)-Flasks:$(br)Upgradeable and a way better option than drinking from the floor, while the chances are smaller you can still get sick if you drink untreated water from it."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "dehydration:leather_flask",
+			"recipe2": "dehydration:iron_leather_flask"
+            
+        },
+		{
+            "type": "patchouli:text",
+            "text": "$(br2)-Water Bottles:$(br)Like the flask the chances of getting sick drinking from a water bottle are smaller but also higher than with a flask, boil it in a furnace or campfire!"
+        },
+				{
+            "type": "patchouli:spotlight",
+			"item": "minecraft:glass_bottle"
+            
+        },
+		{
+            "type": "patchouli:text",
+			"title": "Water Treatment",
+			"text": "Water can be purified in a campfire cauldron, just put water in it and wait for a awhile, then fill your flasks up with clean water.$(br2)Copper Cauldrons can be used to store clean water, will also slowly fill when it rains."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "dehydration:copper_cauldron",
+			"recipe2": "dehydration:campfire_cauldron"
+            
+        }
+		
+    ]
+}

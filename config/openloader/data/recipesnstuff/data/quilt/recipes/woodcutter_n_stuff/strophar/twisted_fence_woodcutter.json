@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "ad_astra:strophar_planks"
+    },
+    "result": "ad_astra:strophar_fence",
+    "count": 1
+}

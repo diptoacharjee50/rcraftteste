@@ -1,0 +1,20 @@
+{
+    "name": "Combustion Table",
+    "icon": "galosphere:combustion_table",
+    "category": "patchouli:important_mechanisms",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A new workstation table that allows the players to customize their own silver bombs.$(br2)-Gunpowder increases the blast radius.$(br2)-String increases the duration.$(br2)-Slimeball increases the bounciness of the bomb."
+        },
+		
+		{
+			"type": "patchouli:image",
+			"images": [
+                "patchouli:silverbomb.png"
+            ],
+			"border": true
+		}
+
+    ]
+}

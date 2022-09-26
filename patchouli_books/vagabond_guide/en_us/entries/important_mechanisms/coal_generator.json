@@ -1,0 +1,16 @@
+{
+    "name": "Coal Generator",
+    "icon": "ad_astra:coal_generator",
+    "category": "patchouli:important_mechanisms",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The good old coal generator, you will need it eventually."
+        },
+		
+		        {
+            "type": "patchouli:crafting",
+            "recipe": "ad_astra:recipes/coal_generator"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Improved Wither",
+    "icon": "minecraft:wither_rose",
+    "category": "patchouli:mechanics_nerfs_etc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The wither is now stronger has more health and behaves more like his Bedrock Edition cousin."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:wither"
+		}
+    ]
+}

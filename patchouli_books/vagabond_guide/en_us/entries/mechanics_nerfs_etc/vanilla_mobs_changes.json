@@ -1,0 +1,306 @@
+{
+    "name": "Vanilla Mobs changes",
+    "icon": "minecraft:iron_sword",
+    "category": "patchouli:mechanics_nerfs_etc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "-Creepers explosions deal mining fatigue and weakness.$(br2)-Creepers ignite with explosion damage.$(br2)-Default Creepers don't grief anymore."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:creeper",
+			"text": "           $(k)oh maan"
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Phantoms can see and fly through blocks.$(br2)-Phantoms are repelled by light.$(br2)-Phantoms are translucent."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:phantom",
+			"text": "           $(k)nice vote"
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Slimes can spawn with more than one size.$(br2)-Small and normal sized slimes can merge."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:slime",
+			"text": "           $(k)classic"
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Vexes die with their evoker."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:vex",
+			"text": "           $(k)thank god"
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Guardians can spawn naturally."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:guardian",
+			"text": "           $(k)good fishing!"
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Zombies have natural knockback resistance.$(br2)-Zombies can spawn as a leader or siege one."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:zombie",
+			"text": "           $(k)00:21"
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Husks are immune to fire damage."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:husk",
+			"text": "           $(k)sexy time"
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Drowned spawn more often with a trident.$(br2)-Drowned have a better swimming animation.$(br2)-Baby drowneds can spawn riding a guardian."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:drowned",
+			"text": "          $(k)love my wife"
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Skeletons flee if the player is too close.$(br2)-Skeletons can swim.$(br2)-Skeletons can have spectral arrows"
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:skeleton",
+			"text": "           $(k)adc life"
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Strays flee if the player is too close.$(br2)-Strays can swim.$(br2)-Strays shoots frozen arrows.$(br2)-Strays deal slowness 2."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:stray",
+			"text": "           $(k)so so cold"
+		},
+
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Wither skeletons are immune to fire damage.$(br2)-Wither skeletons can spawn with a bow."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:wither_skeleton",
+			"text": "           $(k)god rng"
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Silverfishs take no fall damage.$(br2)-Silverfish have a random speed bonus."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:silverfish",
+			"text": "           $(k)disgusting."
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Endermites take no fall damage.$(br2)-Endermites have a random speed bonus.$(br2)-Chorus plants are infested with endermites."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:endermite",
+			"text": "           $(k)disgustinger."
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Spiders take no fall damage.$(br2)-Spiders can spawn baby spiders on death.$(br2)-Spiders can launch webs.$(br2)-Cave Spider jockeys can spawn.$(br2)-Cave spiders can spawn naturally in caves."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:spider",
+			"text": "      $(k)does spiders have puss."
+		},
+
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Pillagers get the piercing enchant more often.$(br2)-Pillagers can spawn with a speed bonus."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:pillager",
+			"text": "      $(k)war criminal."
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Vindicators can spawn in patrols.$(br2)-Vindicators can spawn with a speed bonus."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:vindicator",
+			"text": "      $(k)war criminal."
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Evokers stop arrows."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:evoker",
+			"text": "      $(k)war criminal."
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Illusioners can spawn in certain mansions."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:illusioner",
+			"text": "      $(k)war criminal."
+		},
+
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Ravagers can spawn in patrols."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:ravager",
+			"text": "      $(k)war criminal."
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Witches flee if the player is too close."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:witch",
+			"text": "      $(k)bad witch."
+		},
+
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Blaze set entities on fire on attack."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:blaze",
+			"text": "      $(k)burn baby."
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Ghasts have increased health."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:ghast",
+			"text": "      $(k)cat noises."
+		},
+
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Magma cubes set entities on fire on collision."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:magma_cube",
+			"text": "      $(k)bbbbbb."
+		},
+		
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Piglins can spawn riding a hoglin."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:piglin",
+			"text": "      $(k)oink."
+		},
+
+		{
+            "type": "patchouli:text",
+			"title": "Vanilla Mobs changes",
+            "text": "-Get blindness when staring at a Enderman."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:enderman",
+			"text": "      $(k)im shy."
+		}
+
+    ]
+}

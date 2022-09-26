@@ -1,0 +1,11 @@
+{
+    "name": "Warped Anchor",
+    "icon": "galosphere:warped_anchor",
+    "category": "patchouli:important_mechanisms",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You can recharge this block up to 4 times with an allurite block.$(br2)When a ender pearl lands near the anchor it will teleport the player to it."
+        }
+    ]
+}

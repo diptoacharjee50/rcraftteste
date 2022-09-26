@@ -1,0 +1,15 @@
+{
+    "name": "Leather Upgrades",
+    "icon": "minecraft:leather_helmet",
+    "category": "patchouli:mechanics_nerfs_etc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Don't worry that the vanilla iron armor is now gone, the leather armor now has upgrades with the following items.$(br2)-Iron ingots.$(br2)-Silver ingots.$(br2)-Crude Cladding."
+        },
+		{
+			"type": "patchouli:spotlight",
+			"item": "galosphere:sterling_helmet"
+		}
+    ]
+}

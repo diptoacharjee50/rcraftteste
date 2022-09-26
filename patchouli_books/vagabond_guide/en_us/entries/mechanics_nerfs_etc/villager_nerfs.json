@@ -1,0 +1,17 @@
+{
+    "name": "Villager Nerfs & Tweaks",
+    "icon": "minecraft:emerald",
+    "category": "patchouli:mechanics_nerfs_etc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "-Villagers don't offer Treasure Enchantments anymore.$(br2)-Villagers trades reset, and are soft-limited to their level.$(br2)-No more nitwits.$(br2)-Villagers follow emerald blocks.$(br2)-No more cured villager discounts."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:villager",
+			"text": "           $(k)im nerf"
+		}
+    ]
+}

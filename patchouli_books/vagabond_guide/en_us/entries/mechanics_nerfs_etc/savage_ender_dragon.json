@@ -1,0 +1,26 @@
+{
+    "name": "Savage Ender Dragon",
+    "icon": "minecraft:dragon_head",
+    "category": "patchouli:mechanics_nerfs_etc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Forget about cheesing the Ender Dragon, her fight has been improved and is now more though than ever.$(br2)-She has an anti-flying cheese attack.$(br2)-She no longer can be cheesed with beds/explosions.$(br2)-She summons lightning bolts."
+        },
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:ender_dragon"
+		},
+		
+		{
+			"type": "patchouli:entity",
+			"entity": "minecraft:ender_dragon"
+		},
+		
+        {
+            "type": "patchouli:text",
+            "text": "-Breaking crystals can cause some debuffs and mob spawns.$(br2)-Fireballs do some additional explosion damage.$(br2)-Respawns crystals after a time interval.$(br2)-Spawns aggro enderman at players, normal enderman spawn is disabled around.$(br2)-The end is DARK, you will need night vision potions."
+        }
+    ]
+}

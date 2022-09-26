@@ -1,0 +1,16 @@
+{
+    "name": "Mob Farm nerfs",
+    "icon": "minecraft:spawner",
+    "category": "patchouli:mechanics_nerfs_etc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Traditional minecraft farms are nerfed if not straight up removed.$(br2)But don't worry way better and $(3)spookiers$() alternatives will be available for you."
+        },
+		
+		{
+			"type": "patchouli:spotlight",
+			"item": "spirit:soul_crystal"
+		}
+    ]
+}

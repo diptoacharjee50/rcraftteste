@@ -1,0 +1,16 @@
+{
+    "name": "Netherite Upgrades",
+    "icon": "wardentools:sculkified_netherite_helmet",
+    "category": "patchouli:mechanics_nerfs_etc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Netherite Tools and Armor can be improved with some specific items.$(br2)-Tools and Armor can be Sculkified with an Echo Shard, gaining better overall stats at the cost of durability.$(br2)-Tools can be upgraded with Rubys, gaining better attack speed and efficiency."
+        },
+		
+		{
+			"type": "patchouli:text",
+			"text": "-Topaz can be used in both Tools and Armor to double their durabiity.$(br2)-You can further upgrade sculkified tools and armor to the Warden variant.$(br2)-If you regret sculkifying your netherite items you can use Amber gems to 'heal' your items."
+		}
+    ]
+}

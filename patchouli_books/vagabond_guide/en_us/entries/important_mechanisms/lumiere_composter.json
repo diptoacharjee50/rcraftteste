@@ -1,0 +1,15 @@
+{
+    "name": "Lumiere Composter",
+    "icon": "minecraft:composter",
+    "category": "patchouli:important_mechanisms",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Right click a semi-filled composter with lumiere shard will turn the compost into lumiere compost, which drops glowstone dust when it's fully filled."
+        },
+		{
+			"type": "patchouli:spotlight",
+			"item": "galosphere:lumiere_shard"
+		}
+    ]
+}

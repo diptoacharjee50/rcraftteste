@@ -1,0 +1,17 @@
+{
+    "name": "Bounties",
+    "icon": "bountiful:bounty",
+    "category": "patchouli:mechanics_nerfs_etc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You can find bounty boards in villages (or make your own) to get access to various bounties where you can get all kind of items from (even some exclusive ones!).$(br2)You can change what kind of bounties you receive in your bounty board with a decree, the more bounties you do the better the rewards will get."
+        },
+		
+		{
+			"type": "patchouli:crafting",
+			"recipe": "bountiful:crafting/bountyboard",
+			"recipe2": "bountiful:crafting/decree"
+		}
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Aura Ringer",
+    "icon": "galosphere:aura_ringer",
+    "category": "patchouli:important_mechanisms",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Aura Ringer can be activated by right clicking it with an Allurite Block.$(br2)When activated it emits aura particles in dark areas within a radius of 10 and grants the 'illusive' effect."
+        },
+		
+		        {
+            "type": "patchouli:text",
+            "text": "The illusive effect is received when near an activated Aura Ringer.$(br2)-It obfuscates the player ui.$(br2)-Villagers affected by it will be lured to the block."
+        }
+    ]
+}

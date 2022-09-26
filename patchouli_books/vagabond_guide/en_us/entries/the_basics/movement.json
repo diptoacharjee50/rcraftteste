@@ -1,0 +1,15 @@
+{
+    "name": "Movement",
+    "icon": "minecraft:leather_boots",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Many new and tweaked movement options await for your running away needs; $()$(br2)-Fence Jumping:$(br)You can now freely jump over fences.$(br2)-Double Jump:$(br)You can enchant your boots to Double Jump in the air."
+        },
+		{
+            "type": "patchouli:text",
+            "text": "$(br2)-Wall Cling:$(br)Jump towards a wall and press $(l)SHIFT$() to cling on it.$(br2)-Wall Jump:$(br)While wall clinging, keep holding $(l)W$() and let go of $(l)SHIFT$() to wall jump.$(br2)-Crawling:$(br)Press $(l)C$() to crawl around."
+        }
+    ]
+}

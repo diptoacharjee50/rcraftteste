@@ -1,0 +1,43 @@
+{
+    "name": "Pebble Tools",
+    "icon": "minecraft:wooden_axe",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You may have noticed that wooden tools are gone, and while you can still break trees with your hand that is for sure not the best course of action. $(br2)But fright not, you can now make improvised tools with pebbles and sticks! $(br2)Can't find any pebbles around? Try to break $(2)Grass/Dirt $(0)blocks until you drop some."
+        },
+        {
+            "type": "patchouli:image",
+			"images": [
+                "patchouli:pebbles.png"
+            ],
+			"border": true ,
+			"text": "$(o)$(l)'Some pebbles and twigs lying around.'"
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "quilt:pebble_knife",
+			"text": "Then get some sticks from twigs (or breaking leaves if that's more your thing.) and make you first pebble tool, the Pebble Shiv."
+        },
+		{
+            "type": "patchouli:spotlight",
+			"item": "farmersdelight:straw",
+            "text": "Use your newly acquired Pebble Shiv to cut some grass and catch some straw, straw will be used in all following pebble tools recipes."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "quilt:pebble_axe",
+			"text": "After you get a hatchet you are set, craft the other tools or just get a pick and upgrade straight to stone."
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "quilt:pebble_pickaxe",
+			"recipe2": "quilt:pebble_shovel"
+        },
+		{
+            "type": "patchouli:crafting",
+			"recipe": "quilt:pebble_hoe"
+        }
+    ]
+}

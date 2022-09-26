@@ -1,0 +1,19 @@
+{
+    "name": "Level System",
+    "icon": "vitalize:experience_cubed",
+    "category": "patchouli:getting_started",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Now you can use your valauble xp to actually level up!$(br2)When you have enough xp to level up you will hear a distinctive sound, then you can go to the new book tab in your inventory to increase your level and spend your skill points."
+        },
+		{
+            "type": "patchouli:image",
+			"images": [
+                "patchouli:levelsystem.png"
+            ],
+			"border": true ,
+			"text": "$(o)$(l)'You can get a preview of what leveling which attribute does by hovering it.'"
+        }
+    ]
+}

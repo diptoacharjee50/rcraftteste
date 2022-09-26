@@ -1,0 +1,40 @@
+{
+    "name": "Alloying",
+    "icon": "alloy_forgery:stone_bricks_forge_controller",
+    "category": "patchouli:important_mechanisms",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Alloying can be used to improve your ingot gains, each tier increasing how much and what you can alloy.$(br2)But before you can start alloying you will need to setup a structure for your forge that you will see in the next page."
+        },
+		
+		{
+			"type": "patchouli:crafting",
+			"recipe": "alloy_forgery:bricks_forge",
+			"recipe2": "alloy_forgery:deepslate_bricks_forge"
+		},
+		
+		{
+		    "type": "patchouli:text",
+			"title": "Building a Forge",
+            "text": "You can make an Alloy Forge out of 5 materials: Bricks, Stone Bricks, Blackstone, Deepslate, and End Stone.$(br2)-Bricks and Stone bricks are Tier 1$(br2)-Blackstone Deepslate and Prismarine are Tier 2$(br2)-Endstone is Tier 3."
+		},
+		
+		{
+		    "type": "patchouli:multiblock",
+			"multiblock": {
+    "pattern": [
+        [ "_ B _", " B B ", "  B  "], 
+        [ "_ B _", " G0B ", "  B  "], 
+        [ "_BBB_", "_BBB_", "_BBB_"]
+    ],
+    "mapping": {
+        "G": "alloy_forgery:bricks_forge_controller",
+        "B": "minecraft:bricks"
+    },
+    "symmetrical": true
+}
+
+		}
+    ]
+}
