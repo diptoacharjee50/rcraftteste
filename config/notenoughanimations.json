@@ -20,7 +20,7 @@
   "ladderAnimationArmSpeed": 2.0,
   "enableRotateToLadder": true,
   "enableEatDrinkAnimation": true,
-  "enableRowBoatAnimation": true,
+  "enableRowBoatAnimation": false,
   "enableHorseAnimation": true,
   "dontHoldItemsInBed": true,
   "freezeArmsInBed": true,
@@ -42,7 +42,7 @@
   "fallingAnimation": false,
   "freezingAnimation": true,
   "huggingAnimation": false,
-  "narutoRunning": false,
+  "narutoRunning": true,
   "enableInWorldBookRendering": false,
   "disableLegSmoothing": false
 }

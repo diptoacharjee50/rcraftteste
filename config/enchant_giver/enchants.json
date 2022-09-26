@@ -59,7 +59,7 @@
     "mcdw:growing": 1
   },
   "mcdw:axe_firebrand": {
-    "minecraft:fire_aspect": 1
+    "minecraft:fire_aspect": 2
   },
   "mcdw:bow_burst_gale_bow": {
     "mcdw:charge": 1

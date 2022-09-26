@@ -6,8 +6,8 @@
   "waterCircles": {
     "density": 10,
     "radius": 16,
-    "enabled": true,
-    "colored": true
+    "enabled": false,
+    "colored": false
   },
   "hitParticlesEnabled": true,
   "hitParticleEntries": [
@@ -81,6 +81,12 @@
     "excavated_variants:diorite_diamond_ore",
     "excavated_variants:andesite_diamond_ore",
     "excavated_variants:twigs_schist_diamond_ore",
-    "excavated_variants:twigs_rhyolite_diamond_ore"
+    "excavated_variants:twigs_rhyolite_diamond_ore",
+    "galosphere:allurite_cluster",
+    "galosphere:lumiere_cluster",
+    "biomemakeover:illunite_cluster",
+    "ad_astra:mars_diamond_ore",
+    "ad_astra:venus_gold_ore",
+    "ad_astra:venus_diamond_ore"
   ]
 }

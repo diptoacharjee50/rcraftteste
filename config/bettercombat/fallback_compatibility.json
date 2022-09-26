@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "blacklist_item_id_regex": "minecraft:wooden_axe|minecraft:stone_axe|minecraft:golden_axe|minecraft:iron_axe|minecraft:diamond_axe|minecraft:netherite_axe|wardentools:sculkified_netherite_axe|minecraft:wooden_pickaxe|minecraft:stone_pickaxe|minecraft:golden_pickaxe|minecraft:iron_pickaxe|minecraft:diamond_pickaxe|minecraft:netherite_pickaxe|wardentools:sculkified_netherite_pickaxe|purpeille:purpeille_pickaxe|purpeille:purpeille_axe|farmersdelight:flint_knife|farmersdelight:iron_knife|farmersdelight:golden_knife|farmersdelight:diamond_knife|farmersdelight:netherite_knife|deeperdarker:warden_axe|deeperdarker:warden_pickaxe",
+  "blacklist_item_id_regex": "minecraft:wooden_axe|minecraft:stone_axe|minecraft:golden_axe|minecraft:iron_axe|minecraft:diamond_axe|minecraft:netherite_axe|wardentools:sculkified_netherite_axe|minecraft:wooden_pickaxe|minecraft:stone_pickaxe|minecraft:golden_pickaxe|minecraft:iron_pickaxe|minecraft:diamond_pickaxe|minecraft:netherite_pickaxe|wardentools:sculkified_netherite_pickaxe|purpeille:purpeille_pickaxe|purpeille:purpeille_axe|farmersdelight:flint_knife|farmersdelight:iron_knife|farmersdelight:golden_knife|farmersdelight:diamond_knife|farmersdelight:netherite_knife|deeperdarker:warden_axe|deeperdarker:warden_pickaxe|spirit:soul_steel_pickaxe|spirit:soul_steel_axe",
   "fallback_compatibility": [
     {
       "item_id_regex": "claymore|great_sword|greatsword",

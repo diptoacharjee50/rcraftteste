@@ -3,15 +3,15 @@
         "playerex:constitution": {
             "minecraft:generic.max_health": 1.0,
             "minecraft:generic.knockback_resistance": 0.01,
-            "playerex:poison_resistance": 0.025,
+            "playerex:poison_resistance": 0.005,
 			"playerex:health_regeneration": 0.1,
-			"playerex:lightning_resistance": 0.025,
-			"playerex:freeze_resistance": 0.025,
-			"playerex:fire_resistance": 0.025
+			"playerex:lightning_resistance": 0.005,
+			"playerex:freeze_resistance": 0.005,
+			"playerex:fire_resistance": 0.005
         },
         "playerex:strength": {
             "minecraft:generic.attack_damage": 0.25,
-			"playerex:breaking_speed": 0.5,
+			"playerex:breaking_speed": 0.25,
 			"biomemakeover:projectile_resistance": 0.5
 			
             

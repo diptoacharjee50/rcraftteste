@@ -7,5 +7,5 @@
   "shouldFlowingWaterSpawnParticlesOnFirstTick": true,
   "lapisBlockUpdateParticleChance": 10,
   "flowingWaterSplashingDesity": 50,
-  "rainRippleDensity": 0
+  "rainRippleDensity": 1
 }

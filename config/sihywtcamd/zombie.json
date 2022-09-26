@@ -1,6 +1,6 @@
 {
   "general": {
-    "attackHeal": true,
+    "attackHeal": false,
     "knockbackResistance": true,
     "brainless": false,
     "leaderAndSiege": true
@@ -9,8 +9,8 @@
     "fireResistant": true
   },
   "drowned": {
-    "tridentSpawn": false,
-    "highVelocity": true,
+    "tridentSpawn": true,
+    "highVelocity": false,
     "betterAnimation": true,
     "guardianJockeySpawn": true
   }

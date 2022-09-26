@@ -29,8 +29,8 @@
     "steamColumnEnabled": true,
     "flameJetEnabled": true,
     "bubbleColumnEnabled": true,
-    "waterfallsEnabled": true,
-    "enableWaterfallSounds": true,
+    "waterfallsEnabled": false,
+    "enableWaterfallSounds": false,
     "enableWaterfallParticles": true,
     "waterRippleStyle": "PIXELATED_CIRCLE"
   },

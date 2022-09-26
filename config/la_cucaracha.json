@@ -1,6 +1,6 @@
 {
-  "roachSpawnIntervalStructures": 400,
-  "roachSpawnIntervalFood": 600,
-  "roachMaxGroupSize": 2,
-  "roachAggressionGroupSize": 2
+  "roachSpawnIntervalStructures": 900,
+  "roachSpawnIntervalFood": 900,
+  "roachMaxGroupSize": 1,
+  "roachAggressionGroupSize": 1
 }

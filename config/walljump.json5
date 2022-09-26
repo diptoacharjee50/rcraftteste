@@ -6,7 +6,7 @@
 	// Blacklists block inputted; can't Wall Jump off it, format is 'block.(mod name or minecraft).(name)', use underscores as spaces
 	"blockBlacklist": [],
 	// Enables Elytra Wall Cling: Clinging to the Wall with Elytra Deployed.
-	"enableElytraWallCling": true,
+	"enableElytraWallCling": false,
 	// Classic Wall Cling which allows Crouch, the reason this can't be keybinded is because Fabric doesn't support Multi Mapping.
 	"enableClassicWallCling": false,
 	// Allows you to climb up without alternating walls.

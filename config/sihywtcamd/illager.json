@@ -9,12 +9,12 @@
   },
   "evoker": {
     "stopArrows": true,
-    "increasedHealth": true
+    "increasedHealth": false
   },
   "illusionerInMansions": true,
   "ravagerInPatrols": true,
   "witch": {
     "fleeGoal": true,
-    "moreSpawn": true
+    "moreSpawn": false
   }
 }

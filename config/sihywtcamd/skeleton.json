@@ -11,7 +11,7 @@
     "frozenArrows": true
   },
   "witherSkeleton": {
-    "baby": true,
+    "baby": false,
     "fireResistant": true,
     "bow": true,
     "netheriteSword": false

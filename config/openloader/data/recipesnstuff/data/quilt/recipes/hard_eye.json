@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "PIW",
-    "AEL",
-	"NMH"
+    " M ",
+    "LEA",
+	" N "
   ],
   "key": {
     "E": {
@@ -16,22 +16,10 @@
       "item": "galosphere:lumiere_shard"
 	},
     "N": {
-      "item": "minecraft:quartz"
+      "item": "minecraft:blaze_powder"
 	},
     "M": {
       "item": "minecraft:amethyst_shard"
-	},
-    "H": {
-      "item": "minecraft:blaze_powder"
-	},
-    "W": {
-      "item": "minecraft:echo_shard"
-	},
-    "P": {
-      "item": "minecraft:prismarine_shard"
-	},
-    "I": {
-      "item": "biomemakeover:illunite_shard"
 	}
   },
   "result": {
