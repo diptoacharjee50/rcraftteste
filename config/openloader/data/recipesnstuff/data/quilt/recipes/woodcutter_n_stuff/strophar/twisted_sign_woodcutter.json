@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "ad_astra:strophar_planks"
-    },
-    "result": "supplementaries:ad_astra/sign_post_strophar",
-    "count": 1
-}

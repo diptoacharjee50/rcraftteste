@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "minecraft:dark_oak_planks"
-    },
-    "result": "mcwdoors:dark_oak_cottage_door",
-    "count": 1
-}

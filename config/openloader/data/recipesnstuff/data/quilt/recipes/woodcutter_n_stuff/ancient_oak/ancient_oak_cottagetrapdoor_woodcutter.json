@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "biomemakeover:ancient_oak_planks"
-    },
-    "result": "everycomp:mct/biomemakeover/ancient_oak_cottage_trapdoor",
-    "count": 1
-}

@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "overweight_farming:overweight_apple_block"
-    },
-    "result": "apple-armor:apple_leggings",
-    "count": 1
-}

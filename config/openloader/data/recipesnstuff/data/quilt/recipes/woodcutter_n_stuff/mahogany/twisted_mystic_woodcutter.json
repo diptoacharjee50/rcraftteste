@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "mahogany:mahogany_planks"
-    },
-    "result": "everycomp:mcd/mahogany/mahogany_mystic_door",
-    "count": 1
-}

@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "biomemakeover:ancient_oak_planks"
-    },
-    "result": "biomemakeover:ancient_oak_fence",
-    "count": 1
-}

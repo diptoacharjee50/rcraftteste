@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "ecologics:flowering_flowering_azalea_planks"
-    },
-    "result": "ecologics:flowering_flowering_azalea_button",
-    "count": 1
-}

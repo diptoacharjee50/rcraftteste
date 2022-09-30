@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "ad_astra:glacian_planks"
-    },
-    "result": "everycomp:mcd/ad_astra/glacian_mystic_door",
-    "count": 1
-}

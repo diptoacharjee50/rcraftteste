@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "minecraft:spruce_planks"
-    },
-    "result": "mcwdoors:spruce_beach_door",
-    "count": 1
-}
