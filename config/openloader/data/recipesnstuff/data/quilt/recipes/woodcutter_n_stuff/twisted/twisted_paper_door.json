@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FF ",
+    "PP ",
+	"FF "
+  ],
+  "key": {
+    "F": {
+      "item": "architects_palette:twisted_planks"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/architects_palette/twisted_paper_door"
+  }
+}

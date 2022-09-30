@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "ecologics:azalea_planks"
+    },
+    "result": "ecologics:azalea_slab",
+    "count": 1
+}

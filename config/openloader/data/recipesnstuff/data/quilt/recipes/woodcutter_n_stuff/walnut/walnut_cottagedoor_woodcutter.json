@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "ecologics:walnut_planks"
+    },
+    "result": "everycomp:mcd/ecologics/walnut_cottage_door",
+    "count": 1
+}

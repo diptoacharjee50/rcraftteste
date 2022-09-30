@@ -1,0 +1,6 @@
+{
+  "roachSpawnIntervalStructures": 900,
+  "roachSpawnIntervalFood": 900,
+  "roachMaxGroupSize": 1,
+  "roachAggressionGroupSize": 1
+}

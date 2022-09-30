@@ -62,16 +62,7 @@ key_modifiers_key.entityculling.toggle:0,0,0
 key_modifiers_supplementaries.keybind.quiver:0,0,0
 key_modifiers_neat.keybind.toggle:0,0,0
 key_modifiers_keybinds.combatroll.roll:0,0,0
-key_modifiers_key.push_to_talk:0,0,0
-key_modifiers_key.whisper:0,0,0
-key_modifiers_key.mute_microphone:0,0,0
-key_modifiers_key.disable_voice_chat:0,0,0
-key_modifiers_key.hide_icons:0,0,0
-key_modifiers_key.voice_chat:0,0,0
-key_modifiers_key.voice_chat_settings:0,0,0
-key_modifiers_key.voice_chat_group:0,0,0
-key_modifiers_key.voice_chat_toggle_recording:0,0,0
-key_modifiers_key.voice_chat_adjust_volumes:0,0,0
+key_modifiers_key.cycleStatueTabs:0,0,0
 key_modifiers_Camera left:0,0,0
 key_modifiers_Camera right:0,0,0
 key_modifiers_Camera closer:0,0,0
@@ -86,14 +77,21 @@ key_modifiers_equipmentcompare.key.showTooltips:0,0,0
 key_modifiers_key.indypets.whistle:0,0,0
 key_modifiers_key.indypets.unwhistle:0,0,0
 key_modifiers_key.spirit.toggle:0,0,0
+key_modifiers_inventorymanagement.keybind.position_edit.player:0,0,0
+key_modifiers_inventorymanagement.keybind.position_edit.container:0,0,0
 key_modifiers_key.eldenhorses.summonhorse:0,0,0
 key_modifiers_raised.down:0,0,0
 key_modifiers_raised.up:0,0,0
 key_modifiers_raised.offset.down:0,0,0
 key_modifiers_raised.offset.up:0,0,0
+key_modifiers_key.mahjongcraft.open_config_gui:0,0,0
+key_modifiers_key.mahjongcraft.open_hud_position_editor:0,0,0
 key_modifiers_key.modmenu.open_menu:0,0,0
 key_modifiers_dsurround.text.keybind.individualSoundConfig:0,0,0
 key_modifiers_dsurround.text.keybind.diagnosticHud:0,0,0
+key_modifiers_key.uselessreptile.flyDownKey:0,0,0
+key_modifiers_key.uselessreptile.rangeAttackKey:0,0,0
+key_modifiers_key.uselessreptile.meleeAttackKey:0,0,0
 key_modifiers_keybinds.bettercombat.feint:0,0,0
 key_modifiers_keybinds.bettercombat.toggle_mine_with_weapons:0,0,0
 key_modifiers_key.inmis.open_backpack:0,0,0
@@ -108,6 +106,16 @@ key_modifiers_key.jade.show_uses:0,0,0
 key_modifiers_key.jade.narrate:0,0,0
 key_modifiers_presencefootsteps.settings.key:0,0,0
 key_modifiers_key.walljump.walljump:0,0,0
+key_modifiers_key.push_to_talk:0,0,0
+key_modifiers_key.whisper:0,0,0
+key_modifiers_key.mute_microphone:0,0,0
+key_modifiers_key.disable_voice_chat:0,0,0
+key_modifiers_key.hide_icons:0,0,0
+key_modifiers_key.voice_chat:0,0,0
+key_modifiers_key.voice_chat_settings:0,0,0
+key_modifiers_key.voice_chat_group:0,0,0
+key_modifiers_key.voice_chat_toggle_recording:0,0,0
+key_modifiers_key.voice_chat_adjust_volumes:0,0,0
 key_modifiers_iris.keybind.reload:0,0,0
 key_modifiers_iris.keybind.toggleShaders:0,0,0
 key_modifiers_iris.keybind.shaderPackSelection:0,0,0

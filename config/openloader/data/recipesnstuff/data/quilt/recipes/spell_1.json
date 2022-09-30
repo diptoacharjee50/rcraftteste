@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spirit:soul_steel_sword"
+    },
+    {
+      "item": "spirit:soul_steel_pickaxe"
+    },
+    {
+      "item": "spirit:soul_steel_axe"
+    },
+    {
+      "item": "spirit:soul_steel_shovel"
+    },
+    {
+      "item": "spirit:soul_steel_bow"
+    },
+    {
+      "item": "spirit:soul_steel_hoe"
+    },
+    {
+      "item": "spirit:soul_crystal_shard"
+    },
+    {
+      "item": "minecraft:ender_eye"
+    },
+    {
+      "item": "spirit:soul_crystal_shard"
+    }
+  ],
+  "result": {
+    "item": "boundweapons:summon_spell_basic_item",
+    "count": 1
+  }
+}

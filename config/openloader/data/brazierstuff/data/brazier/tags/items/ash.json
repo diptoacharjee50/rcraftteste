@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "immersive_weathering:ash_layer_block",
+    {
+      "id": "nether_extension:ash",
+      "required": false
+    }
+  ]
+}

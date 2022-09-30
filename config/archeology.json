@@ -1,0 +1,7 @@
+{
+  "disableBrushingAnimation": false,
+  "releaseUseKeyAfterBrushing": false,
+  "brushingLowerThreshold": 0.03,
+  "brushingBreakingSpeed": 3.0,
+  "brushingRepairSpeed": 1.0
+}

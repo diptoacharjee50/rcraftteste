@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F",
+    "P "
+  ],
+  "key": {
+    "F": {
+      "item": "twigs:pebble"
+    },
+    "P": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:flint_knife"
+  }
+}

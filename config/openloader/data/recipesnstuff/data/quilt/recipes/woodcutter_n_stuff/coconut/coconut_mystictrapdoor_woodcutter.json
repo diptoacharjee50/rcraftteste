@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "ecologics:coconut_planks"
+    },
+    "result": "everycomp:mct/ecologics/coconut_mystic_trapdoor",
+    "count": 1
+}

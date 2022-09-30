@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "deeperdarker:echo_planks"
+    },
+    "result": "everycomp:mct/deeperdarker/echo_beach_trapdoor",
+    "count": 1
+}

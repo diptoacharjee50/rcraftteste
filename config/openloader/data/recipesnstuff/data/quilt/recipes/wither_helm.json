@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "W W"
+  ],
+  "key": {
+    "W": {
+      "item": "architects_palette:withered_bone"
+    }
+  },
+  "result": {
+    "item": "immersive_armors:wither_helmet"
+  }
+}

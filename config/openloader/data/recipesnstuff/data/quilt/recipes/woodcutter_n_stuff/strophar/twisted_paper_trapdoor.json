@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "ad_astra:strophar_planks"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/ad_astra/strophar_paper_trapdoor"
+  }
+}

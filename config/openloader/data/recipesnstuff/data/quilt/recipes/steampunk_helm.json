@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LRL",
+    "ACA"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+	"L": {
+      "item": "minecraft:leather"
+	},
+	"R": {
+      "item": "minecraft:redstone"
+	}
+  },
+  "result": {
+    "item": "immersive_armors:steampunk_helmet"
+  }
+}

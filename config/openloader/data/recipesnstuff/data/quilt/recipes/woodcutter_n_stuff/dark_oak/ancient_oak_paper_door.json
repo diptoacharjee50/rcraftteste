@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FF ",
+    "PP ",
+	"FF "
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "mcwdoors:dark_oak_paper_door"
+  }
+}

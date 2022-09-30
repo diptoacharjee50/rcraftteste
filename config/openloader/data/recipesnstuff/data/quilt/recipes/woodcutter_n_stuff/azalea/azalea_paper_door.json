@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FF ",
+    "PP ",
+	"FF "
+  ],
+  "key": {
+    "F": {
+      "item": "ecologics:azalea_planks"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/ecologics/azalea_paper_door"
+  }
+}

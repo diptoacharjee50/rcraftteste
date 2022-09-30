@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "mahogany:mahogany_planks"
+    },
+    "result": "everycomp:mcd/mahogany/mahogany_nether_door",
+    "count": 1
+}

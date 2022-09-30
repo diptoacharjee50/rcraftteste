@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:oak_log",
+	"minecraft:spruce_log",
+	"minecraft:birch_log",
+	"minecraft:jungle_log",
+	"minecraft:acacia_log",
+	"minecraft:dark_oak_log",
+	"minecraft:mangrove_log",
+	"ecologics:coconut_log",
+	"ecologics:walnut_log",
+	"ecologics:azalea_log",
+	"ecologics:flowering_azalea_log",
+	"biomemakeover:blighted_balsa_log",
+	"biomemakeover:willow_log",
+	"biomemakeover:swamp_cypress_log",
+	"biomemakeover:ancient_oak_log",
+	"charm:ebony_log",
+	"architects_palette:twisted_log",
+	"deeperdarker:echo_log"
+  ]
+}

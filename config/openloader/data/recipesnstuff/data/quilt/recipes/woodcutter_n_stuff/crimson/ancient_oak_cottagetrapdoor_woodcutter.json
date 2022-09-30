@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "minecraft:crimson_planks"
+    },
+    "result": "mcwtrpdoors:crimson_cottage_trapdoor",
+    "count": 1
+}
