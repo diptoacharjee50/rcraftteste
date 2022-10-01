@@ -2,17 +2,17 @@
     "values": {
         "playerex:constitution": {
             "minecraft:generic.max_health": 1.0,
-            "minecraft:generic.knockback_resistance": 0.01,
-            "playerex:poison_resistance": 0.005,
-			"playerex:health_regeneration": 0.1,
-			"playerex:lightning_resistance": 0.005,
-			"playerex:freeze_resistance": 0.005,
-			"playerex:fire_resistance": 0.005
+            "minecraft:generic.knockback_resistance": 0.02,
+            "playerex:poison_resistance": 0.002,
+			"playerex:health_regeneration": 0.005,
+			"playerex:lightning_resistance": 0.002,
+			"playerex:freeze_resistance": 0.002,
+			"playerex:fire_resistance": 0.002
         },
         "playerex:strength": {
             "minecraft:generic.attack_damage": 0.25,
 			"playerex:breaking_speed": 0.25,
-			"biomemakeover:projectile_resistance": 0.5
+			"biomemakeover:projectile_resistance": 0.002
 			
             
         },
@@ -24,7 +24,7 @@
         "playerex:intelligence": {
             "playerex:heal_amplification": 0.002,
             "playerex:ranged_crit_damage": 0.005,
-			"playerex:wither_resistance": 0.025
+			"playerex:wither_resistance": 0.002
             
         },
         "playerex:luckiness": {
