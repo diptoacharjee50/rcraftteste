@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "biomemakeover:blighted_balsa_planks"
-    },
-    "result": "biomemakeover:blighted_balsa_slab",
-    "count": 1
-}

@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "deeperdarker:echo_planks"
-    },
-    "result": "deeperdarker:echo_fence",
-    "count": 1
-}

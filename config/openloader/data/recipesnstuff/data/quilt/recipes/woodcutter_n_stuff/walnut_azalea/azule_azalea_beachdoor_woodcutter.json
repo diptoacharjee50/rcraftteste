@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "colorful-azaleas:walnut_azalea_planks"
-    },
-    "result": "everycomp:mcd/colorful-azaleas/walnut_azalea_beach_door",
-    "count": 1
-}

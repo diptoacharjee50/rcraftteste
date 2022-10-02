@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "biomemakeover:willow_planks"
-    },
-    "result": "everycomp:mct/biomemakeover/willow_tropical_trapdoor",
-    "count": 1
-}

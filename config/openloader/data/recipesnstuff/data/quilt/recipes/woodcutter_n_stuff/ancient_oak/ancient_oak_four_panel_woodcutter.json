@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "biomemakeover:ancient_oak_planks"
-    },
-    "result": "everycomp:mcd/biomemakeover/ancient_oak_four_panel_door",
-    "count": 1
-}

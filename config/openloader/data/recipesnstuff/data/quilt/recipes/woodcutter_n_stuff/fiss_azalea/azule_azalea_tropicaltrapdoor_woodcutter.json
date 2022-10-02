@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "colorful-azaleas:fiss_azalea_planks"
-    },
-    "result": "everycomp:mct/colorful-azaleas/fiss_azalea_tropical_trapdoor",
-    "count": 1
-}

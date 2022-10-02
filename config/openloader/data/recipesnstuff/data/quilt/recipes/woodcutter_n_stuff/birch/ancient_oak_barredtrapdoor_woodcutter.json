@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "minecraft:birch_planks"
-    },
-    "result": "mcwtrpdoors:birch_barred_trapdoor",
-    "count": 1
-}

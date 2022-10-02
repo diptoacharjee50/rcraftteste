@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "ad_astra:strophar_planks"
-    },
-    "result": "everycomp:mcd/ad_astra/strophar_tropical_door",
-    "count": 1
-}

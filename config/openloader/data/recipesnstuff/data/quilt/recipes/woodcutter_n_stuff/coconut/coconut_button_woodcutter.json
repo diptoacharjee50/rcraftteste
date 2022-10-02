@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "ecologics:coconut_planks"
-    },
-    "result": "ecologics:coconut_button",
-    "count": 1
-}

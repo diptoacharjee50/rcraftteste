@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "architects_palette:twisted_planks"
-    },
-    "result": "everycomp:mcd/architects_palette/twisted_cottage_door",
-    "count": 1
-}
