@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "minecraft:dark_oak_planks"
+    },
+    "result": "mcwtrpdoors:dark_oak_barred_trapdoor",
+    "count": 1
+}

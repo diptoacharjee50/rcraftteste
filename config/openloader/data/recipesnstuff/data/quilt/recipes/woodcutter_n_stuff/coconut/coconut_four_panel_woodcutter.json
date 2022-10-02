@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "ecologics:coconut_planks"
+    },
+    "result": "everycomp:mcd/ecologics/coconut_four_panel_door",
+    "count": 1
+}

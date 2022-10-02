@@ -1,0 +1,2306 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "north"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "south"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "west"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "0",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "true",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "true",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "middle",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"top": "false",
+			"open": "false",
+			"fluidlogged": "1",
+			"facing": "east"
+		},
+		"Name": "another_furniture:red_curtain"
+	}
+]

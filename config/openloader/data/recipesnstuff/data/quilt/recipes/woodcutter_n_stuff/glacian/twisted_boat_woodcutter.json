@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "ad_astra:glacian_planks"
+    },
+    "result": "snowyspirit:ad_astra/sled_glacian",
+    "count": 1
+}

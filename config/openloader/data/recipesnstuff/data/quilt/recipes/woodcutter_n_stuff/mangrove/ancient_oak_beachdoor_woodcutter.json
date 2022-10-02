@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "minecraft:mangrove_planks"
+    },
+    "result": "mcwdoors:mangrove_beach_door",
+    "count": 1
+}

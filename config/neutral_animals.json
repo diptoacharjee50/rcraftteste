@@ -1,0 +1,8 @@
+{
+  "chickensAreNeutral": true,
+  "cowsAreNeutral": true,
+  "pigsAreNeutral": false,
+  "rabbitsAreNeutral": false,
+  "sheepAreNeutral": false,
+  "villagersAreNeutral": false
+}

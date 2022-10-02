@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "aspen:aspen_planks"
+    },
+    "result": "aspen:aspen_fence_gate",
+    "count": 1
+}

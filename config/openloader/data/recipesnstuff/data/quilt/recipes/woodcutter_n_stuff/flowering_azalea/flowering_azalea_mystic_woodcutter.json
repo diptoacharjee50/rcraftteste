@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "ecologics:flowering_azalea_planks"
+    },
+    "result": "everycomp:mcd/ecologics/flowering_azalea_mystic_door",
+    "count": 1
+}

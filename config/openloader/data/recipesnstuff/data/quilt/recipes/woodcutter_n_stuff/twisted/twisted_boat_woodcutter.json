@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "architects_palette:twisted_planks"
+    },
+    "result": "snowyspirit:architects_palette/sled_twisted",
+    "count": 1
+}

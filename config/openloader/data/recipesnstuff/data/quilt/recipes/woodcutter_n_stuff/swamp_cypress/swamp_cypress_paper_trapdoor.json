@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "biomemakeover:swamp_cypress_planks"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/biomemakeover/swamp_cypress_paper_trapdoor"
+  }
+}

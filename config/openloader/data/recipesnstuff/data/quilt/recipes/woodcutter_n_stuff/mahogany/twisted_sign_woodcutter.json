@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "mahogany:mahogany_planks"
+    },
+    "result": "mahogany:mahogany_sign",
+    "count": 1
+}

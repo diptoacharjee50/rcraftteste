@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "biomemakeover:blighted_balsa_planks"
+    },
+    "result": "everycomp:mct/biomemakeover/blighted_balsa_cottage_trapdoor",
+    "count": 1
+}

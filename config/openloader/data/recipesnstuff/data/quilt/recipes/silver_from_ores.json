@@ -1,0 +1,24 @@
+{
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "tag": "quilt:silver_ores"
+    }
+  ],
+  "output": {
+    "id": "galosphere:silver_ingot",
+    "count": 2
+  },
+  "overrides": {
+    "2": {
+      "id": "galosphere:silver_ingot",
+      "count": 3
+    },
+    "3+": {
+      "id": "galosphere:silver_ingot",
+      "count": 4
+    }
+  },
+  "min_forge_tier": 2,
+  "fuel_per_tick": 5
+}

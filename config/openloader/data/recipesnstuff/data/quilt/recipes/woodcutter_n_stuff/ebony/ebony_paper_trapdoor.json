@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "charm:ebony_planks"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/charm/ebony_paper_trapdoor"
+  }
+}

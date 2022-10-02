@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CPC",
+    "PHP",
+	"CPC"
+  ],
+  "key": {
+    "C": {
+      "item": "deeperdarker:warden_carapace"
+    },
+    "H": {
+      "item": "wardentools:heart_of_the_warden"
+    },
+	"P": {
+      "item": "minecraft:echo_shard"
+	}
+	
+  },
+  "result": {
+    "item": "deeperdarker:reinforced_echo_shard"
+  }
+}

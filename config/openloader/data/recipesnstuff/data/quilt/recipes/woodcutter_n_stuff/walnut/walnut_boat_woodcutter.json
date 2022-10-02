@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "ecologics:walnut_planks"
+    },
+    "result": "ecologics:walnut_boat",
+    "count": 1
+}

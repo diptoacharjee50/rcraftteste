@@ -1,0 +1,1665 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "0"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "true",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "true",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "true",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "true",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"has_water": "false",
+			"has_smoke": "false",
+			"has_item": "false",
+			"has_electricity": "false",
+			"fluidlogged": "1"
+		},
+		"Name": "lunade:purple_fitting"
+	}
+]

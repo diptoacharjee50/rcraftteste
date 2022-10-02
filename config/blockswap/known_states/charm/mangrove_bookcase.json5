@@ -1,0 +1,134 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"capacity": "0"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"capacity": "0"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"capacity": "0"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"capacity": "1"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"capacity": "1"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"capacity": "1"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"capacity": "1"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"capacity": "2"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"capacity": "2"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"capacity": "2"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"capacity": "2"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"capacity": "3"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"capacity": "3"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"capacity": "3"
+		},
+		"Name": "charm:mangrove_bookcase"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"capacity": "3"
+		},
+		"Name": "charm:mangrove_bookcase"
+	}
+]
