@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "twigs:stripped_bamboo_planks"
-    },
-    "result": "twigs:stripped_bamboo_trapdoor",
-    "count": 1
-}

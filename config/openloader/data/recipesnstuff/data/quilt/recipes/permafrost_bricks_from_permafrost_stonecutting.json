@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "immersive_weathering:permafrost"
-  },
-  "result": "ad_astra:permafrost_bricks"
-}

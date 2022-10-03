@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "minecraft:acacia_planks"
-    },
-    "result": "mcwtrpdoors:acacia_beach_trapdoor",
-    "count": 1
-}

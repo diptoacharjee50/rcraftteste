@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "ad_astra:aeronos_planks"
-    },
-    "result": "everycomp:mct/ad_astra/aeronos_beach_trapdoor",
-    "count": 1
-}

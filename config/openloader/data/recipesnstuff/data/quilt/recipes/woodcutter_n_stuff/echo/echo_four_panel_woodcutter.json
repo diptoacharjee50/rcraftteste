@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "deeperdarker:echo_planks"
-    },
-    "result": "everycomp:mcd/deeperdarker/echo_four_panel_door",
-    "count": 1
-}

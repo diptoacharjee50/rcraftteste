@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "ecologics:azalea_planks"
-    },
-    "result": "everycomp:mcd/ecologics/azalea_classic_door",
-    "count": 1
-}

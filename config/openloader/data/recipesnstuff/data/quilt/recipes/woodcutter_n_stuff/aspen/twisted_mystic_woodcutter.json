@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "aspen:aspen_planks"
-    },
-    "result": "everycomp:mcd/aspen/aspen_mystic_door",
-    "count": 1
-}

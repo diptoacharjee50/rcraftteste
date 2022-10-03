@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "ecologics:azalea_planks"
-    },
-    "result": "everycomp:mct/ecologics/azalea_barred_trapdoor",
-    "count": 1
-}

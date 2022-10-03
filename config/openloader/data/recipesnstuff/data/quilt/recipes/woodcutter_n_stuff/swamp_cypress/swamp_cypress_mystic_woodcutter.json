@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "biomemakeover:swamp_cypress_planks"
-    },
-    "result": "everycomp:mcd/biomemakeover/swamp_cypress_mystic_door",
-    "count": 1
-}

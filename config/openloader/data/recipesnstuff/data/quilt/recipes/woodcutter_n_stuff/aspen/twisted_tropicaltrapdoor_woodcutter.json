@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "aspen:aspen_planks"
-    },
-    "result": "everycomp:mct/aspen/aspen_tropical_trapdoor",
-    "count": 1
-}

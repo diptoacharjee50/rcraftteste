@@ -1,6 +1,0 @@
-{
-    "parent": "item/bow",
-    "textures": {
-        "layer0": "mcdw:item/bows/bonebow_pulling_1"
-    }
-}

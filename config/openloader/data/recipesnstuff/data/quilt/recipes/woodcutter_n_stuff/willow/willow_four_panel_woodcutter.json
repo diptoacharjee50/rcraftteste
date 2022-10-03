@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "biomemakeover:willow_planks"
-    },
-    "result": "everycomp:mcd/biomemakeover/willow_four_panel_door",
-    "count": 1
-}

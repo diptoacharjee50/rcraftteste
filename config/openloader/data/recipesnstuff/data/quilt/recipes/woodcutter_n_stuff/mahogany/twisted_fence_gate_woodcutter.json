@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "mahogany:mahogany_planks"
-    },
-    "result": "mahogany:mahogany_fence_gate",
-    "count": 1
-}

@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "colorful-azaleas:titanium_azalea_planks"
-    },
-    "result": "everycomp:mcd/colorful-azaleas/titanium_azalea_tropical_door",
-    "count": 1
-}

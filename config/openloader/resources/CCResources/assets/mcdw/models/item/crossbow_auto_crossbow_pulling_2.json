@@ -1,6 +1,0 @@
-{
-  "parent": "mcdw:item/crossbow_auto_crossbow",
-  "textures": {
-    "layer0": "mcdw:item/crossbows/auto_crossbow_pulling_2"
-  }
-}

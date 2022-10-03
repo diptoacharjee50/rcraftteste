@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "ad_astra:aeronos_planks"
-    },
-    "result": "ad_astra:aeronos_slab",
-    "count": 1
-}

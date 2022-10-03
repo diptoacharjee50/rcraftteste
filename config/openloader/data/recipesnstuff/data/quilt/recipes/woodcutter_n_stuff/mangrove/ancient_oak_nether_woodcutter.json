@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "minecraft:mangrove_planks"
-    },
-    "result": "mcwdoors:mangrove_nether_door",
-    "count": 1
-}

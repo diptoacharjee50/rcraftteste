@@ -1,8 +1,0 @@
-{
-    "type": "charm:woodcutting",
-    "ingredient": {
-        "item": "minecraft:oak_planks"
-    },
-    "result": "mcwdoors:oak_nether_door",
-    "count": 1
-}
