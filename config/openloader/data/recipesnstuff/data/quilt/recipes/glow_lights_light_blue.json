@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "glow_lights",
+  "ingredients": [
+    {"item": "minecraft:glowstone_dust"},
+    {"tag": "c:light_blue_dyes"},
+    {"tag": "c:string"}
+  ],
+  "result": {
+    "item": "snowyspirit:glow_lights_light_blue"
+  },
+  "conditions": [
+    {
+      "type": "snowyspirit:flag",
+      "flag": "glow_lights"
+    }
+  ]
+}

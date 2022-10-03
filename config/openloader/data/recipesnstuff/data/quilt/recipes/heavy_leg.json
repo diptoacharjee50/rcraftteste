@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CAC",
+    "A A",
+	"C C"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "ad_astra:steel_plate"
+    }
+  },
+  "result": {
+    "item": "immersive_armors:heavy_leggings"
+  }
+}

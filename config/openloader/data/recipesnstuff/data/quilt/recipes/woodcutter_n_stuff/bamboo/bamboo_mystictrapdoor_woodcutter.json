@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "twigs:stripped_bamboo_planks"
+    },
+    "result": "everycomp:mct/twigs/bamboo_mystic_trapdoor",
+    "count": 1
+}

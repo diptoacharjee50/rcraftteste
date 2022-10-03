@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "PPP"
+  ],
+  "key": {
+    "F": {
+      "tag": "quilt:feather_blocks"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:white_bed"
+  }
+}

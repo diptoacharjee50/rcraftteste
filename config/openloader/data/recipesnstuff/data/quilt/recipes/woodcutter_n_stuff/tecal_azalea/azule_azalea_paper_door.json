@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FF ",
+    "PP ",
+	"FF "
+  ],
+  "key": {
+    "F": {
+      "item": "colorful-azaleas:tecal_azalea_planks"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/colorful-azaleas/tecal_azalea_paper_door"
+  }
+}

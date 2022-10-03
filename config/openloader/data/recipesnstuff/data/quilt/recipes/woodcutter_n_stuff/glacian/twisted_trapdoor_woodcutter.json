@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "ad_astra:glacian_planks"
+    },
+    "result": "ad_astra:glacian_trapdoor",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "aspen:aspen_planks"
+    },
+    "result": "everycomp:mcd/aspen/aspen_four_panel_door",
+    "count": 1
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mcdw:item/crossbow_baby_crossbow",
+  "textures": {
+    "layer0": "mcdw:item/crossbows/baby_crossbow_pulling_2"
+  }
+}

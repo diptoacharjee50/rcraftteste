@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "boundweapons:summon_spell_basic_item"
+    },
+    "addition": {
+        "item": "purpeille:preserved_dust"
+    },
+       "result": {
+        "item": "boundweapons:summon_spell_epic_item"
+    }
+}

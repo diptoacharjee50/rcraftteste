@@ -1,0 +1,221 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "true"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "true"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "true"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "true"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "true"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "true"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "true"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "true"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"charged": "true"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "up",
+			"charged": "true"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"charged": "true"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"charged": "true"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"charged": "false"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"charged": "false"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"charged": "false"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"charged": "false"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"charged": "false"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"charged": "false"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"charged": "false"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"charged": "false"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "up",
+			"charged": "false"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "down",
+			"charged": "false"
+		},
+		"Name": "lightstones:corestone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "down",
+			"charged": "false"
+		},
+		"Name": "lightstones:corestone"
+	}
+]

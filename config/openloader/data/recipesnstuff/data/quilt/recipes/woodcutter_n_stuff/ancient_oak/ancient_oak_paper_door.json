@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FF ",
+    "PP ",
+	"FF "
+  ],
+  "key": {
+    "F": {
+      "item": "biomemakeover:ancient_oak_planks"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/biomemakeover/ancient_oak_paper_door"
+  }
+}

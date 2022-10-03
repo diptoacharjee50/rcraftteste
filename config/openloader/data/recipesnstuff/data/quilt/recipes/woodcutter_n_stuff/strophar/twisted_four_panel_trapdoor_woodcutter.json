@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "ad_astra:strophar_planks"
+    },
+    "result": "everycomp:mct/ad_astra/strophar_four_panel_trapdoor",
+    "count": 1
+}

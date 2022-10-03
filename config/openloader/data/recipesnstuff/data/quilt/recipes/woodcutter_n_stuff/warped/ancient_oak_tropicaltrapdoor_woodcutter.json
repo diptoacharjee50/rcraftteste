@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "minecraft:warped_planks"
+    },
+    "result": "mcwtrpdoors:warped_tropical_trapdoor",
+    "count": 1
+}

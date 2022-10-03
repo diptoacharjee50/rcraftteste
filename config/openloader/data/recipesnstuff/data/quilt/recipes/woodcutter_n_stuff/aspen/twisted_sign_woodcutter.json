@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "aspen:aspen_planks"
+    },
+    "result": "supplementaries:aspen/sign_post_aspen",
+    "count": 1
+}

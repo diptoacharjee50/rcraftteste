@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "biomemakeover:ancient_oak_planks"
+    },
+    "result": "biomemakeover:ancient_oak_boat",
+    "count": 1
+}

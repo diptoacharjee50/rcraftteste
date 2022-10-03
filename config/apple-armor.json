@@ -1,0 +1,9 @@
+{
+  "hungerPerArmorPiece": 0.6,
+  "hungerIncreasedByProtection": 0.1,
+  "hungerIncreasedByProtectionEnchantmentLevel": 0.15,
+  "hungerFullSetBonus": 2.0,
+  "hungerDiminishedByArmorPieceCount": 0.1,
+  "hungerSaturationModifier": 0.3,
+  "applesDroppedOnArmorPieceBreak": 1
+}

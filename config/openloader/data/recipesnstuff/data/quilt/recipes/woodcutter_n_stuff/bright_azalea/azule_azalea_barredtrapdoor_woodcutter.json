@@ -1,0 +1,8 @@
+{
+    "type": "charm:woodcutting",
+    "ingredient": {
+        "item": "colorful-azaleas:bright_azalea_planks"
+    },
+    "result": "everycomp:mct/colorful-azaleas/bright_azalea_barred_trapdoor",
+    "count": 1
+}
